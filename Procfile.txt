@@ -1,0 +1,1 @@
+worker: python enhanced_sticker_bot.py
